@@ -1,0 +1,49 @@
+.bg-container {
+    
+    height: 100vh;
+    background-size: cover;
+}
+
+.options-colour {
+    color: red;
+}
+
+.bg-colour {
+    background-color: #19232b;
+    background-size: cover;
+    height: 100vh;
+}
+
+.img-logo {
+    height: 60px;
+    width: 80px;
+}
+
+.logos {
+    background-color: #202b36;
+    padding: 10px;
+    color: #5a7184;
+    border-radius: 20px;
+}
+
+.para-one {
+    color: #5a7184;
+    text-align: center;
+}
+
+.main-heading {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.last-line {
+    text-align: center;
+    color: #959ead;
+
+}
+
+.para-colour {
+    color: #5a7184;
+}
+
+
